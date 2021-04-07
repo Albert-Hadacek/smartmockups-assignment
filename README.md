@@ -1,4 +1,4 @@
-#Smart Mockups Assignment
+# Smart Mockups Assignment
 
 Install Dependencies
 
