@@ -1,0 +1,21 @@
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: #fefefe;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+}
